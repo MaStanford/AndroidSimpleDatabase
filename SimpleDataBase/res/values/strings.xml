@@ -1,0 +1,49 @@
+<resources>
+
+    <string name="app_name">SimpleDataBase</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Simple Database</string>
+    <string name="main_file_edit_label">Text to be added to file</string>
+    <string name="main_file_add_button">Add</string>
+    <string name="main_file_edit_output_label">Added to file: </string>
+    <string name="main_file_edit_output">File Contains: </string>
+    <string name="main_file_edit_hint">Write Here</string>
+    <string name="menu_button_1">Shared</string>
+    <string name="menu_button_2">SQL</string>
+    <string name="title_activity_shared_prefs">Shared Prefences</string>
+    <string name="menu_button_home">File IO</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_sqldatabase">SQL Database</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="main_file_delete_button">Delete</string>
+    <string name="main_file_name_label">File Name: </string>
+    <string name="default_file_name">DefaultFile.txt</string>
+    <string name="default_file_name_bool">defaultFileNameBool</string>
+    <string name="settings_file_name_label">Internal File Name: </string>
+    <string name="SQL_add_button">Add new</string>
+    <string name="SQL_delete_button">Delete first</string>
+    <string name="SQL_edit_name_hint">Name</string>
+    <string name="SQL_edit_number_hint">Number</string>
+    <string name="SQL_edit_name_label">Name</string>
+    <string name="SQL_edit_number_label">Number</string>
+    <string name="Shared_key_1">Mem1</string>
+    <string name="Shared_key_2">Mem2</string>
+    <string name="default_key1_name_bool">default_key1_name_bool</string>
+    <string name="default_key2_name_bool">default_key2_name_bool</string>
+    <string name="file_name_pref">fileName</string>
+    <string name="default_key1_name">Shared1</string>
+    <string name="default_key2_name">Shared2</string>
+    <string name="settings_description">Here the user can change the file name of the text file. They can change the Shared Preference keys.  They can change the name of the SQL table.  This is the next task, is not implemented yet. Logic and framework inthe rest of the app supports these operation, I just need to put in some editTexts and onClicks.</string>
+    <string name="blank"></string>
+    <string name="Shared_save">Save</string>
+    <string name="Shared_hint_1">Text here</string>
+    <string name="settings_file_name_in_button">Change File Name</string>
+    <string name="settings_shared1_key_label">Shared Key 1:  </string>
+    <string name="settings_shared2_key_label">Shared Key 2:  </string>
+    <string name="settings_SQL_table_name_label">"SQL Table Name:  "</string>
+    <string name="settings_shared1_button_label">Set New Key</string>
+    <string name="settings_shared2_button">Set New Key</string>
+    <string name="settings_SQL_button">Set New Table Name</string>
+    <string name="PREFERENCE_KEY">key</string>
+
+</resources>

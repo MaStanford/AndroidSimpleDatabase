@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/button_home"
+        android:showAsAction="always"
+        android:title="@string/menu_button_home"/>
+    <!-- android:icon="@drawable/ic_menu_signal" -->
+    <item
+        android:id="@+id/button_1"
+        android:showAsAction="always"
+        android:title="@string/menu_button_1"/>
+    <!-- android:icon="@drawable/ic_menu_connection" -->
+    <item
+        android:id="@+id/button_2"
+        android:showAsAction="always"
+        android:title="@string/menu_button_2"/>
+    <!-- android:icon="@drawable/ic_menu_connection" -->
+
+    <item
+        android:id="@+id/menu_settings"
+        android:showAsAction="never"
+        android:title="@string/menu_settings"/>
+    <!-- android:icon="@drawable/ic_launcher" -->
+
+</menu>
